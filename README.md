@@ -1,6 +1,9 @@
-The objective is to implement the approach outlined in the paper within the framework of the Tacotron1 model (based on the full-sentence method,
-code available here: https://github.com/ttaoREtw/Tacotron-pytorch) and to be able to generate a small TTS system incrementally.
+### Text-to-Speech (Tacotron1-based)
 
-In order to do that, I have studied the document "2020.findings-emnlp.346.pdf" and edit the precedent model.
+Objective: Implemented a small TTS system by adapting the Tacotron1 model (full-sentence method).  
+- Studied and applied methods from the paper *Findings of EMNLP 2020 (346)*.  
+- Modified and extended the original [Tacotron-pytorch implementation](https://github.com/ttaoREtw/Tacotron-pytorch).  
+- Built an incremental pipeline capable of generating speech from text.  
 
-This file about this project are available on my google drive : https://drive.google.com/drive/folders/1IZtI0cnHX5Bf6vsRZ3f8P2J8Knr97WkC?usp=sharing
+Project files and resources are available here:
+https://drive.google.com/drive/folders/1IZtI0cnHX5Bf6vsRZ3f8P2J8Knr97WkC?usp=sharing
